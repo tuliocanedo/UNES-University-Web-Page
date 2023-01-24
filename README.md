@@ -43,13 +43,11 @@ I'm able to:
 
 ## My process
 
-To build a Web site using HTML5 and CSS3.
+To build a Web site using HTML5 with table.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- CSS Grid
+- Semantic HTML5 markup.
 
 ### What I learned
 
