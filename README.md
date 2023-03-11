@@ -1,4 +1,4 @@
-# UNES-University-Web-Page
+# UNES University Web Page
 
 ## Table of contents
 
